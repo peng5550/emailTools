@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<style>
+    body {
+        font-family: Arial;
+        line-height: 10px;
+    }
+    /*p {font-size: large }*/
+</style>
+<body>
+
+<p>Hi, CompanyExecutive</p>
+<br>
+<p>I'm Harry from Harry Creative Promos ,a supplier from China. </p>
+<p>After browsing your website, we get know you are also in the promotinal industry.?</p>
+<p>Here is a brochures of the most popular mask recently. Check it.</p>
+<p>If you are interested in them, let me know.</p>
+<br>
+<p>Best Regards</p>
+<p>Sales Manager Harry</p>
+<p>------------------------------------</p>
+<p>Web:  http://www.harrycreativepromos.com/</p>
+<p>ASI# 59711</p>
+<p>Harry Creative Promos Inc</p>
+<p>5203 Lincoln St, Denver, </p>
+<p>CO 80216, United States</p>
+<br><img src="cid:image1" alt="image1"></br>
+</body>
+</html>
